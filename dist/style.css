@@ -1,0 +1,20 @@
+div {
+  width: 700px;
+  border: 3px solid #298ee6;
+  display: flex;
+  margin: 15px;
+  justify-content: space-between;
+  padding:15px;
+}
+p {
+  width:50px;
+  height: 50px;
+  background: #298ee6;
+}
+.box2{
+  background:#643579;
+}
+
+.second{
+  background: #ff6347;
+}
